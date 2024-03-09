@@ -1,0 +1,6 @@
+pytest
+mock
+coverage
+tk
+Pillow
+flake8
